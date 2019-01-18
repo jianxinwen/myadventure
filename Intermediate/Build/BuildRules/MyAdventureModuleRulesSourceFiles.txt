@@ -1,0 +1,3 @@
+F:\projects\ue4\MyAdventure\Source\MyAdventure\MyAdventure.Build.cs
+F:\projects\ue4\MyAdventure\Source\MyAdventure.Target.cs
+F:\projects\ue4\MyAdventure\Source\MyAdventureEditor.Target.cs

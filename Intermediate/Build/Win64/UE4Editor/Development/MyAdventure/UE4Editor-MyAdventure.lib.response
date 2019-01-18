@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyAdventure.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\projects\ue4\MyAdventure\Intermediate\Build\Win64\MyAdventureEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\projects\ue4\MyAdventure\Intermediate\Build\Win64\UE4Editor\Development\MyAdventure\MyAdventure.cpp.obj"
+"F:\projects\ue4\MyAdventure\Intermediate\Build\Win64\UE4Editor\Development\MyAdventure\MyAdventureCharacter.cpp.obj"
+"F:\projects\ue4\MyAdventure\Intermediate\Build\Win64\UE4Editor\Development\MyAdventure\MyAdventureGameMode.cpp.obj"
+"F:\projects\ue4\MyAdventure\Intermediate\Build\Win64\UE4Editor\Development\MyAdventure\MyAdventure.init.gen.cpp.obj"
+"F:\projects\ue4\MyAdventure\Intermediate\Build\Win64\UE4Editor\Development\MyAdventure\MyAdventureCharacter.gen.cpp.obj"
+"F:\projects\ue4\MyAdventure\Intermediate\Build\Win64\UE4Editor\Development\MyAdventure\MyAdventureGameMode.gen.cpp.obj"
+"F:\projects\ue4\MyAdventure\Intermediate\Build\Win64\UE4Editor\Development\MyAdventure\PCLaunch.rc.res"
+/OUT:"F:\projects\ue4\MyAdventure\Intermediate\Build\Win64\UE4Editor\Development\MyAdventure\UE4Editor-MyAdventure.lib"
