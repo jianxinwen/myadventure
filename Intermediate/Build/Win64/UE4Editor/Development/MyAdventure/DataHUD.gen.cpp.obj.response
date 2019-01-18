@@ -424,9 +424,9 @@
 /FI"F:\projects\ue4\MyAdventure\Intermediate\Build\Win64\MyAdventureEditor\Development\Engine\SharedPCH.Engine.h"
 /Yu"F:\projects\ue4\MyAdventure\Intermediate\Build\Win64\MyAdventureEditor\Development\Engine\SharedPCH.Engine.h"
 /Fp"F:\projects\ue4\MyAdventure\Intermediate\Build\Win64\MyAdventureEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"F:\projects\ue4\MyAdventure\Intermediate\Build\Win64\UE4Editor\Inc\MyAdventure\MyAdventure.init.gen.cpp"
+"F:\projects\ue4\MyAdventure\Intermediate\Build\Win64\UE4Editor\Inc\MyAdventure\DataHUD.gen.cpp"
 /FI"F:\projects\ue4\MyAdventure\Intermediate\Build\Win64\UE4Editor\Development\MyAdventure\Definitions.MyAdventure.h"
-/Fo"F:\projects\ue4\MyAdventure\Intermediate\Build\Win64\UE4Editor\Development\MyAdventure\MyAdventure.init.gen.cpp.obj"
+/Fo"F:\projects\ue4\MyAdventure\Intermediate\Build\Win64\UE4Editor\Development\MyAdventure\DataHUD.gen.cpp.obj"
 /TP
 /GR-
 /W4

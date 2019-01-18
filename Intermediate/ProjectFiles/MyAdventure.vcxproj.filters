@@ -54,4 +54,14 @@
       <Filter>Source\MyAdventure</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\MyAdventure\DataHUD.h">
+      <Filter>Source\MyAdventure</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\MyAdventure\DataHUD.cpp">
+      <Filter>Source\MyAdventure</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
